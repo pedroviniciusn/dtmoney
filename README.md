@@ -10,5 +10,5 @@ A cada valor colocado como entrada, seu saldo fica como positivo e a cada valor 
 ## Technologies
 
 - ReactJs
-- typeScript
-- styled-components
+- TypeScript
+- Styled-components
