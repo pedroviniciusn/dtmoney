@@ -11,4 +11,6 @@ A cada valor colocado como entrada, seu saldo fica como positivo e a cada valor 
 
 - ReactJs
 - TypeScript
+- Axios
 - Styled-components
+
